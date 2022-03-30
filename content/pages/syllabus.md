@@ -19,7 +19,7 @@ Traditionally, progress in electronics has been driven by miniaturization. But a
 Prerequisites
 -------------
 
-_6.007 Electromagnetic Energy: From Motors to Lasers_, or _[6.003 Signals and Systems](/courses/6-003-signals-and-systems-fall-2011/)_.
+_6.007 Electromagnetic Energy: From Motors to Lasers_, or _[6.003 Signals and Systems](/courses/6-003-signals-and-systems-fall-2011)_.
 
 Course Requirements and Grading
 -------------------------------
